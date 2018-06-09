@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{16F2AB22-84D4-CB1A-9249-274BE8AC42EC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/capture_photo.cs">
+    <Files>
+      <File FileName="Assets/capture_photo.cs" Line="8" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sandeshagawane/Desktop/Github/SBT/Augmented reality Android Application/SBT_AR/Assets/Vuforia/Scripts/Utilities/VRIntegrationHelper.cs" line="99" column="118" />
+      <Breakpoint file="/Users/sandeshagawane/Desktop/Github/SBT/Augmented reality Android Application/SBT_AR/Assets/Vuforia/Scripts/Utilities/VRIntegrationHelper.cs" line="100" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
